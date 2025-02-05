@@ -1,4 +1,4 @@
-Full Stack Realtime caht app
+Full Stack Realtime chat app
 
 Highlights:
 
